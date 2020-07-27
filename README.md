@@ -1,2 +1,2 @@
 # Reinforcement-Learning-AI-in-Game-Playing
-In this project, implemented value iteration and Q-learning. testing agents first on Gridworld (from class), then apply them to a simulated robot controller (Crawler) and Pacman.
+In this project,implemented value iteration and Q-learning. Tested agents first on Gridworld (from class), then applied them to a simulated robot controller (Crawler) and Pacman.
