@@ -330,6 +330,10 @@ class Counter(dict):
         """
         for key in keys:
             self[key] += count
+    
+    def keyss(self):
+        return list(self.items())
+
 
     def argMax(self):
         """
